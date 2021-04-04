@@ -12,16 +12,20 @@ export type UsersType = {
 function App() {
   const [users, setUsers] = useState<Array<UsersType>>([
     { id: v1(), name: 'Valli', age: 1400 },
-    { id: v1(), name: 'Vallidol', age: 1400 },
-    { id: v1(), name: 'Valli', age: 1400 },
-    { id: v1(), name: 'Valli', age: 1400 },
-    { id: v1(), name: 'Fire', age: 1400 },
-    { id: v1(), name: 'Rog', age: 1400 },
-    { id: v1(), name: 'Dog', age: 1400 },
-    { id: v1(), name: 'Duck', age: 1400 },
-    { id: v1(), name: 'Ducker', age: 1400 },
+    { id: v1(), name: 'Valldoor', age: 62 },
+    { id: v1(), name: 'Val', age: 12 },
+    { id: v1(), name: 'Former', age: 44 },
+    { id: v1(), name: 'Fire', age: 68 },
+    { id: v1(), name: 'Cat', age: 27 },
+    { id: v1(), name: 'Dog', age: 33 },
+    { id: v1(), name: 'Duck', age: 36 },
+    { id: v1(), name: 'Ducker', age: 22 },
   ])
-
+  const addUser = (name: string, age: number) => {
+    const newUser = { id: v1(), name, age }
+    setUsers([newUser, ...users])
+    setFilteredUsers([newUser, ...filteredUsers])
+  }
 
   const deleteUser = (id: string) => {
     const newArr = users.filter(u => u.id !== id)
@@ -47,12 +51,11 @@ function App() {
   return (
     <div className="App">
       <AddUser
-        setUsers={setUsers}
-        users={users}
+        addUser={addUser}
       />
 
       <div>
-        <p>Search user</p>
+        <p>Search user:</p>
         <input
           value={filter}
           onChange={(e: ChangeEvent<HTMLInputElement>) => {

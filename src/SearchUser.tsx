@@ -5,7 +5,7 @@ type SearchUserType = {
   setUsers: (arg0: Array<UsersType>) => void
   users: Array<UsersType>
 }
-export const SearchUser = (props: SearchUserType) => {
+export const SearchUser = React.memo((props: SearchUserType) => {
   const [filter, setFilter] = useState<string>('')
 
   const onFilterChangeHandler = () => {
@@ -20,4 +20,4 @@ export const SearchUser = (props: SearchUserType) => {
       />
     </>
   )
-}
+})

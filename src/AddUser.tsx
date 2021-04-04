@@ -3,11 +3,10 @@ import { v1 } from 'uuid';
 import { UsersType } from './App';
 
 type AddUserType = {
-  setUsers: (arg0: Array<UsersType>) => void
-  users: Array<UsersType>
+  addUser: (name: string, age: number) => void
 }
 
-export const AddUser = (props: AddUserType) => {
+export const AddUser = React.memo((props: AddUserType) => {
   const [name, setName] = useState<string>('')
   const [age, setAge] = useState<number>(0)
 
@@ -19,10 +18,10 @@ export const AddUser = (props: AddUserType) => {
     setAge(e.currentTarget.valueAsNumber)
   }
   const addUser = (name: string, age: number) => {
-    const newUser = { id: v1(), name, age }
-    props.setUsers([newUser, ...props.users])
+    props.addUser(name, age)
     setName('')
     setAge(0)
+    
   }
   return (
     <div>
@@ -48,4 +47,4 @@ export const AddUser = (props: AddUserType) => {
     </p>
   </div>
   )
-}
+})

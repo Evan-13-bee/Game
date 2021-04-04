@@ -7,7 +7,7 @@ type EditableSpanType = {
   changeUser: (name: string, age: number, id: string) => void
   id: string
 }
-export const EditableSpan = (props: EditableSpanType) => {
+export const EditableSpan = React.memo((props: EditableSpanType) => {
 
   const [status, setStatus] = useState<boolean>(true)
   const setEditMode = () => {
@@ -41,4 +41,4 @@ export const EditableSpan = (props: EditableSpanType) => {
 
 
   )
-}
+})
