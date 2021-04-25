@@ -1,6 +1,6 @@
 Memory game (Test task)
 
-Test task -
+## Test task -
 
 Build simple memory game with colored (or any images) cards.
 
