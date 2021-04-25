@@ -1,0 +1,11 @@
+.photo {
+  width: 300px;
+  height: 300px
+}
+
+.writing {
+  background-color: azure;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,6 +1,6 @@
 import React, { ChangeEvent, useState } from 'react';
 import { v1 } from 'uuid';
-import { UsersType } from './App';
+import { UsersType } from './HW1';
 
 type AddUserType = {
   addUser: (name: string, age: number) => void
