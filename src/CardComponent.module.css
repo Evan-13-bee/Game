@@ -1,6 +1,7 @@
 .photo {
   width: 300px;
-  height: 300px
+  height: 300px;
+  opacity: 0.99;
 }
 
 .writing {
@@ -8,4 +9,5 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  opacity: 0.99;
 }
