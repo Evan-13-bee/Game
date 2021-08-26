@@ -1,0 +1,103 @@
+@import '../../Common/styles/sass/variables.scss';
+@import '../../Common/styles/sass/mixins.scss';
+
+.workContainer {
+    width: 450px;
+    display: flex;
+    flex-direction: column;
+    background-color: $bgSecondColor;
+
+    .img {
+        height: 300px;
+        background-color: rgb(170, 170, 170);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        position: relative;
+
+        &::before {
+            position: absolute;
+            content: '';
+            background-color: black;
+            top: 0;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            opacity: 0.4;
+        }
+
+        .watch {
+            position: relative;
+            z-index: 1;
+            
+            color: $textColor;
+            background-color: $primaryColor;
+            padding: 10px;
+            border-radius: 21px;
+            width: 120px;
+            height: 22px;
+        
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        
+            font-size: 20px;
+            font-weight: 400;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            cursor: pointer;
+            font-family: 'Quicksand', sans-serif;
+        }
+    }
+
+    .projectInfo {
+        /* background-color: floralwhite;
+        height: 30%;
+        margin: 0 auto;
+        width: 100%; */
+        padding: 25px;
+
+        .projectTitle {
+            // font: 700 16px/1.2 'Josefin Sans', sans-serif;
+            margin: 0 0 5px;
+            letter-spacing: 1px;
+            color: $textColor;
+            font-weight: 700;
+            @include text(('Josefin Sans', sans-serif), 16px, 1.2);
+
+        }
+        
+        .projectDescription {
+            // font: 400 14px/1.8 'Poppins', sans-serif;
+            font-weight: 400;
+            @include text(('Poppins', sans-serif), 14px, 1.8);
+            color: $textColor;
+        }
+    }
+}
+
+
+
+
+// 1 2 4 5 8 9 15 20 
+// March 2021 2, 10, 13, 15, 24-random
+// February 2021 5-card, 14-menu, 17, 20-neon, 21-zumCard, 23 
+// January 2021 9-loading, 12-backGround 15, 16-cool, 21 - cool, 
+// January 2021 4;23
+
+// 3:40?-button 4:10, 5:00-perspective, 6:00-button, 6;20, 7;40-password, 9;05-scroll, 9;40 - cool(всплывашка), 10;30-flex, 10:50 - cool(clock),
+// 11;40-card, 12;20-menu, 15;40 -cool(button), 18;30-float, 19;20-infinite, 19;40(clock), 20;10-maybe, 20;56-cool, 
+// 22;54-slider, 26;49-passwordGenerate, 28;48. 30;20-maybe, 30;50-cool maybe, 
+// 32;37-icons, 32;44-animationFilter, 32;56-svg, 36;03-button, 36;16-loadingCool,  
+// 37;20-slider, 37;38-cursor, 39;00-39;14-coolScroll, 41;44-btnMaybe, 42;04-card, 
+// 42;33, 42;59, 43;18-player, 43;28, 44;15-всплывашка, 44;31-slider, 
+// 46;47-всплывашка. 47;05-формы и логин страница, 47;48-button,
+// 50;00, 54;04-paralax, 53;17-прозрачный фон, 56;10-sidebar
+
+
+
+
+

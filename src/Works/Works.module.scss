@@ -1,0 +1,23 @@
+@import '../Common/styles/sass/variables.scss';
+.worksBlock {
+  background-color: $bgColor;
+  padding: 100px 0;
+
+  .worksContainer {
+    flex-direction: column;
+    justify-content: start;
+    flex-wrap: nowrap;
+
+    .works {
+      width: 100% ;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      align-items: flex-start;
+      
+      @media screen and (max-width: 1119px) {
+        justify-content: center;
+        }
+    }
+  }
+}

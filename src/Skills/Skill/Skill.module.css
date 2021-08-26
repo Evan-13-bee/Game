@@ -1,0 +1,14 @@
+.skill {
+  width: 250px;
+  background-color: darkturquoise;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+   text-align: center;  /*Выравнивает строчные элементы внутри блочных*/
+}
+
+.icon {
+  height: 60px;
+  width: 60px;
+  background-color: deeppink ;
+}
