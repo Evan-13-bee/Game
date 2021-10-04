@@ -36,7 +36,7 @@ export function Nav() {
 
 
   return (
-    <nav>
+    <nav className={s.mainNav}>
       <div className={s.logo}>
         <h4>The Nav</h4>
       </div>

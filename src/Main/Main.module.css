@@ -36,3 +36,34 @@
     height: 40vh;
   }
 }
+
+@media only screen and (min-width: 1600px)
+{
+  .skill {
+    width: 430px;
+}}
+@media only screen and (min-width: 1280px) and (max-width: 1600px)
+{
+  .skill {
+    width: calc(28.33333vw - 23.33333px);
+}}
+@media only screen and (min-width: 1024px) and (max-width: 1280px)
+{
+  .skill {
+    width: 430px;
+}}
+@media only screen and (min-width: 768px) and (max-width: 1024px)
+{
+  .skill {
+    width: calc(43.75vw - 17.5px);
+}}
+@media only screen and (min-width: 480px) and (max-width: 768px)
+{
+  .skill {
+    width: 430px;
+}}
+@media only screen and (max-width: 480px)
+{
+  .skill {
+    width: 90vw;
+}}

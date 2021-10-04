@@ -4,7 +4,7 @@ import c from '../Common/styles/Container.module.css'
 import { Button } from '../Common/components/Button/Button';
 
 export function Main() {
-  const text = `Frontend developer`
+  const text = `Frontend developer `
   let line = 0
   let count = 0
   let [result, setResult] = useState('')
@@ -24,7 +24,7 @@ export function Main() {
           }
         }
         typeLine()
-    }, 250)
+    }, 200+Math.random()*500)
   }
   useEffect(() => {
     typeLine()

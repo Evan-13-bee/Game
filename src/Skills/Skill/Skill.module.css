@@ -1,14 +1,102 @@
 .skill {
-  width: 250px;
-  background-color: darkturquoise;
+  position: relative;
+  background: rgb(255, 255, 255);
   display: flex;
   flex-direction: column;
   align-items: center;
-   text-align: center;  /*Выравнивает строчные элементы внутри блочных*/
+  text-align: center;  /*Выравнивает строчные элементы внутри блочных*/
+  margin: 35px 17.5px;
+  height: 220px;
 }
 
-.icon {
-  height: 60px;
-  width: 60px;
-  background-color: deeppink ;
+.topLr {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+  transition: 0.2s ease-in;
+  background: #333;
+  overflow: hidden;
 }
+
+
+.skill:hover .topLr{
+left: -75px;
+top: calc(50% - 75px);
+width: 150px;
+height: 150px;
+transition: 0.25s ease-in;
+background-color: #ff0057;
+}
+
+.skill .topLr::before{
+  content: attr(data-text);
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 6em;
+  color: rgba(255, 255, 255, .05);
+  font-weight: 700;
+}
+.skill:hover .topLr::before{
+  opacity: 0;
+  }
+
+.topImg {
+  max-width: 100px;
+  transition: 0.25s ease-in-out;
+ }
+
+.skill:hover .topImg{
+  max-width: 75px;
+}
+
+.bottomLr {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.description {
+  list-style: none;
+  font-size: large;
+}
+@media only screen and (min-width: 1600px)
+{
+  .skill {
+    width: 430px;
+}}
+@media only screen and (min-width: 1280px) and (max-width: 1600px)
+{
+  .skill {
+    width: calc(28.33333vw - 23.33333px);
+}}
+@media only screen and (min-width: 1024px) and (max-width: 1280px)
+{
+  .skill {
+    width: 430px;
+}}
+@media only screen and (min-width: 768px) and (max-width: 1024px)
+{
+  .skill {
+    width: calc(43.75vw - 17.5px);
+}}
+@media only screen and (min-width: 480px) and (max-width: 768px)
+{
+  .skill {
+    width: 430px;
+}}
+@media only screen and (max-width: 480px)
+{
+  .skill {
+    width: 90vw;
+}}

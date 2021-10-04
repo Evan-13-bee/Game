@@ -3,17 +3,64 @@ import s from './Skills.module.css';
 import c from '../Common/styles/Container.module.css'
 import Skill from './Skill/Skill';
 import { Title } from '../Common/components/Title/Title';
+import reactImg from '../assets/image/react.png'
+import ts from '../assets/image/ts.png'
+import css from '../assets/image/css.png'
+import server from '../assets/image/server.png'
 export function Skills() {
   return (
     <div className={s.skillsBlock}>
       <div className={`${c.container} ${s.skillsContainer}`}>
-      <Title 
+        <Title
           text={'Skills'}
         />
         <div className={s.skills}>
-          <Skill title={'JS'} description={'It\'s revolution'}/>
-          <Skill title={'HTML'} description={'Russia for sasd people'}/>
-          <Skill title={'CSS'} description={'I love snow'}/>
+          <Skill
+            textData={'React'}
+            img={reactImg}
+            title={'React'}
+            description={[
+              'Hooks',
+              'Redux',
+              'React - Redux',
+              'UniTest',
+              'HOC',
+              'storyBook(low)'
+            ]}
+          />
+          <Skill
+            textData={'TS'}
+            img={ts}
+            title={'TypeScript'}
+            description={[
+              'type of data',
+              'callback',
+              'type function',
+              'type AXIOS',
+              'type of generic',
+            ]}
+          />
+          <Skill
+            textData={'Server'}
+            img={server}
+            title={'server requests'}
+            description={[
+              'Promises',
+              'Thunk',
+              'axios',
+              'saga'
+            ]}
+          />
+          <Skill
+            textData={'CSS'}
+            img={css}
+            title={'CSS'}
+            description={[
+              'flex',
+              'SASS',
+              'grid(low)'
+            ]}
+          />
         </div>
       </div>
     </div>

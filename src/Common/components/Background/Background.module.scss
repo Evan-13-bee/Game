@@ -75,14 +75,14 @@
     transform: translateX(0%);
   }
 }
-.mainDiv div *{
+.mainDiv div svg{
   color: rgba(0,0,0,0.5);
   transition: 1s;
   padding: 0 5px;
   user-select: none;
   cursor: default;
 }
-.mainDiv div path:hover {
+.mainDiv div svg:hover {
   transition: 0s;
   color: #0f0;
   filter: drop-shadow(0 0 120px #0f0);

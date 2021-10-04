@@ -1,10 +1,14 @@
-nav {
+
+.mainNav {
   display: flex;
   justify-content: space-around;
   align-items: center;
   min-height: 8vh;
-  background-color: #5d4954;
+  background-color: #1f1f20;
   font-family: 'Poppins', sans-serif;
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 .logo {
@@ -59,7 +63,7 @@ nav {
     right: 0px;
     height: 92vh;
     top: 8vh;
-    background-color: #5d4954;
+    background-color: #1f1f20;
     display: flex;
     flex-direction: column;
     align-items: center;

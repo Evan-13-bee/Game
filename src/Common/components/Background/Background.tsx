@@ -9,146 +9,7 @@ export const Background = () => {
     <div className={s.unitedDiv}>
       <section className={s.mainSection}>
         <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-        </div>
-        <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
@@ -197,146 +58,7 @@ export const Background = () => {
           </div>
         </div>
         <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-        </div>
-        <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
@@ -385,146 +107,7 @@ export const Background = () => {
           </div>
         </div>
         <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-        </div>
-        <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
@@ -573,146 +156,7 @@ export const Background = () => {
           </div>
         </div>
         <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-        </div>
-        <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
@@ -761,146 +205,7 @@ export const Background = () => {
           </div>
         </div>
         <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-        </div>
-        <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
@@ -949,146 +254,7 @@ export const Background = () => {
           </div>
         </div>
         <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-        </div>
-        <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
@@ -1137,146 +303,7 @@ export const Background = () => {
           </div>
         </div>
         <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-        </div>
-        <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
@@ -1325,146 +352,7 @@ export const Background = () => {
           </div>
         </div>
         <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-        </div>
-        <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
@@ -1513,146 +401,7 @@ export const Background = () => {
           </div>
         </div>
         <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-        </div>
-        <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
@@ -1701,146 +450,7 @@ export const Background = () => {
           </div>
         </div>
         <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-        </div>
-        <div className={s.mainDiv}>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
-          <div>
-            <FontAwesomeIcon icon={faHome} />
-            <FontAwesomeIcon icon={faAddressBook} />
-            <FontAwesomeIcon icon={faBullhorn} />
-            <FontAwesomeIcon icon={faBus} />
-            <FontAwesomeIcon icon={faCar} />
-            <FontAwesomeIcon icon={faCloud} />
-            <FontAwesomeIcon icon={faCocktail} />
-            <FontAwesomeIcon icon={faCopy} />
-            <FontAwesomeIcon icon={faComment} />
-            <FontAwesomeIcon icon={faCode} />
-            <FontAwesomeIcon icon={faClock} />
-            <FontAwesomeIcon icon={faCity} />
-            <FontAwesomeIcon icon={faChessKing} />
-            <FontAwesomeIcon icon={faCheckCircle} />
-            <FontAwesomeIcon icon={faCapsules} />
-            <FontAwesomeIcon icon={faCarBattery} />
-            <FontAwesomeIcon icon={faBroadcastTower} />
-            <FontAwesomeIcon icon={faBell} />
-            <FontAwesomeIcon icon={faBasketballBall} />
-            <FontAwesomeIcon icon={faBath} />
-            
-          </div>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
@@ -1889,6 +499,7 @@ export const Background = () => {
           </div>
         </div>
         <div className={s.mainDiv}>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
@@ -1935,6 +546,450 @@ export const Background = () => {
             <FontAwesomeIcon icon={faBath} />
             
           </div>
+        </div>
+        <div className={s.mainDiv}>
+          
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+        </div>
+        <div className={s.mainDiv}>
+          
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+        </div>
+        <div className={s.mainDiv}>
+          
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+        </div>
+        <div className={s.mainDiv}>
+          
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+        </div>
+        <div className={s.mainDiv}>
+          
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+        </div>
+        <div className={s.mainDiv}>
+          
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+        </div>
+        <div className={s.mainDiv}>
+          
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+        </div>
+        <div className={s.mainDiv}>
+          
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+        </div>
+        <div className={s.mainDiv}>
+          
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+          <div>
+            <FontAwesomeIcon icon={faHome} />
+            <FontAwesomeIcon icon={faAddressBook} />
+            <FontAwesomeIcon icon={faBullhorn} />
+            <FontAwesomeIcon icon={faBus} />
+            <FontAwesomeIcon icon={faCar} />
+            <FontAwesomeIcon icon={faCloud} />
+            <FontAwesomeIcon icon={faCocktail} />
+            <FontAwesomeIcon icon={faCopy} />
+            <FontAwesomeIcon icon={faComment} />
+            <FontAwesomeIcon icon={faCode} />
+            <FontAwesomeIcon icon={faClock} />
+            <FontAwesomeIcon icon={faCity} />
+            <FontAwesomeIcon icon={faChessKing} />
+            <FontAwesomeIcon icon={faCheckCircle} />
+            <FontAwesomeIcon icon={faCapsules} />
+            <FontAwesomeIcon icon={faCarBattery} />
+            <FontAwesomeIcon icon={faBroadcastTower} />
+            <FontAwesomeIcon icon={faBell} />
+            <FontAwesomeIcon icon={faBasketballBall} />
+            <FontAwesomeIcon icon={faBath} />
+            
+          </div>
+        </div>
+        <div className={s.mainDiv}>
+          
           <div>
             <FontAwesomeIcon icon={faHome} />
             <FontAwesomeIcon icon={faAddressBook} />
