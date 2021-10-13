@@ -19,7 +19,7 @@ export function Main() {
             clearTimeout(interval);
             setResult(state => '')//
             count = 0//
-            line = 0//
+            line = 0//cc
             // return 
           }
         }
@@ -36,7 +36,7 @@ export function Main() {
           <span>Hi there</span>
           <h1>I am Evan Smith</h1>
           <p>{result}|</p>
-          <Button text={'GitHub'} href={'https://github.com/Evan-13-bee'}/>
+          <Button text={'GitHub'} href={'https://github.com/Evan-13-bee'}/> 
         </div>
         <div className={s.photo}></div>
       </div>
