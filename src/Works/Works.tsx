@@ -3,9 +3,9 @@ import s from './Works.module.scss';
 import c from '../Common/styles/Container.module.css'
 import { MyWork } from './MyWorks/MyWork';
 import { Title } from '../Common/components/Title/Title';
-import Priemlemo from '../assets/image/Priemlemo.jpg'
-import Dog from '../assets/image/Dog.png'
-export { Priemlemo }
+import todolist from '../assets/image/todolist.png'
+import game from '../assets/image/game.png'
+export { todolist as Priemlemo }
 
 export function Works() {
   let works = []
@@ -13,11 +13,11 @@ export function Works() {
     works.push(i)
   }
   const social = {
-    backgroundImage: `url(${Priemlemo})`,
+    backgroundImage: `url(${todolist})`,
 
   }
   const todoList = {
-    backgroundImage: `url(${Dog})`,
+    backgroundImage: `url(${game})`,
   }
   return (
     <div className={s.worksBlock}>
@@ -27,19 +27,16 @@ export function Works() {
         />
         <div className={s.works}>
           <MyWork
-            title={'Social network'}
-            description={'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua Ut enim...'}
+            title={'Todolist'}
+            description={'Todolist for your tasks'}
             style={social}
+            hrefToProject={'https://evan-13-bee.github.io/todolist/'}
           />
           <MyWork
-            title={'Todolist'}
-            description={'Pop police'}
+            title={'Game'}
+            description={'Build simple memory game with colored (or any images) cards.'}
             style={todoList}
-          />
-          <MyWork
-            title={'Todolist'}
-            description={'Pop police'}
-            style={todoList}
+            hrefToProject={'https://evan-13-bee.github.io/page/'}
           />
          
           {/* {works.map(() => <MyWork

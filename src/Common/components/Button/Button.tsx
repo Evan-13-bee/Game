@@ -1,7 +1,7 @@
 import React, { MouseEventHandler, useState } from "react"
 import s from './Button.module.scss'
 
-export const Button = () => {
+export const Button = (props: {text?: string, href?: string}) => {
   const [state, setState] = useState<any>()
   let m: boolean = false
   const onButtonEnter = (e: any) => {
@@ -30,10 +30,11 @@ export const Button = () => {
   return (
     <>
       <a
+        target="_blank"
         className={s.f}
         onMouseEnter={onButtonEnter}
-        href="#"
-      >{state}Watch</a>
+        href={props.href? props.href : '#'}
+      >{state}{props.text? props.text : 'Watch'}</a>
     </>
   )
 }

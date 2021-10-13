@@ -4,7 +4,7 @@ import c from '../Common/styles/Container.module.css'
 import { Button } from '../Common/components/Button/Button';
 
 export function Main() {
-  const text = `Frontend developer `
+  const text = `My github `
   let line = 0
   let count = 0
   let [result, setResult] = useState('')
@@ -36,7 +36,7 @@ export function Main() {
           <span>Hi there</span>
           <h1>I am Evan Smith</h1>
           <p>{result}|</p>
-          <Button />
+          <Button text={'GitHub'} href={'https://github.com/Evan-13-bee'}/>
         </div>
         <div className={s.photo}></div>
       </div>

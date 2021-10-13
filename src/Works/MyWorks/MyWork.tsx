@@ -6,12 +6,13 @@ type MyWorkType = {
   title: string
   description: string
   style: Object
+  hrefToProject: string
 }
 export function MyWork(props: MyWorkType) {
   return (
     <div className={s.workContainer}>
       <div className={s.img} style={props.style}>
-          <Button/>
+          <Button href={props.hrefToProject}/>
       </div>
       <div className={s.projectInfo}>
         <p className={s.projectTitle}>{props.title}</p>

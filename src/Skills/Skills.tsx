@@ -7,6 +7,7 @@ import reactImg from '../assets/image/react.png'
 import ts from '../assets/image/ts.png'
 import css from '../assets/image/css.png'
 import server from '../assets/image/server.png'
+import vue from '../assets/image/Vue.png'
 export function Skills() {
   return (
     <div className={s.skillsBlock}>
@@ -48,7 +49,6 @@ export function Skills() {
               'Promises',
               'Thunk',
               'axios',
-              'saga'
             ]}
           />
           <Skill
@@ -59,6 +59,17 @@ export function Skills() {
               'flex',
               'SASS',
               'grid(low)'
+            ]}
+          />
+          <Skill
+            textData={'Vue'}
+            img={vue}
+            title={'VUE'}
+            description={[
+              'Vuex',
+              'Filters',
+              'Mixins',
+              'Directives'
             ]}
           />
         </div>
