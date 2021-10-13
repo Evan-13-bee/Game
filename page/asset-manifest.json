@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.abe04ff8.chunk.css",
+    "main.js": "/static/js/main.d581556e.chunk.js",
+    "main.js.map": "/static/js/main.d581556e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e7023ccd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e7023ccd.js.map",
+    "static/js/2.213af4b2.chunk.js": "/static/js/2.213af4b2.chunk.js",
+    "static/js/2.213af4b2.chunk.js.map": "/static/js/2.213af4b2.chunk.js.map",
+    "static/js/3.d761ac19.chunk.js": "/static/js/3.d761ac19.chunk.js",
+    "static/js/3.d761ac19.chunk.js.map": "/static/js/3.d761ac19.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.abe04ff8.chunk.css.map": "/static/css/main.abe04ff8.chunk.css.map",
+    "static/js/2.213af4b2.chunk.js.LICENSE.txt": "/static/js/2.213af4b2.chunk.js.LICENSE.txt",
+    "static/media/Main.module.css": "/static/media/Avatar.05b52336.jpg",
+    "static/media/css.ab470747.png": "/static/media/css.ab470747.png",
+    "static/media/game.377913dc.png": "/static/media/game.377913dc.png",
+    "static/media/react.259e8f4f.png": "/static/media/react.259e8f4f.png",
+    "static/media/server.c1d3d205.png": "/static/media/server.c1d3d205.png",
+    "static/media/todolist.a22bfe27.png": "/static/media/todolist.a22bfe27.png",
+    "static/media/ts.f1a1fb4e.png": "/static/media/ts.f1a1fb4e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7023ccd.js",
+    "static/js/2.213af4b2.chunk.js",
+    "static/css/main.abe04ff8.chunk.css",
+    "static/js/main.d581556e.chunk.js"
+  ]
+}
